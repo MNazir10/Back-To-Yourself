@@ -1,0 +1,23 @@
+
+.sec2{
+    font-family: calibri light ;
+    background-image: url(img/nav-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* text-align: center; */ 
+}
+#banner_btn_1{
+    background-color: transparent;
+    border: 1px solid white;
+    padding-top: .5%;
+    padding-bottom: .5%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+
+
+
+}
+/* .txt{
+    width: 40rem;
+    text-align: center;
+} */

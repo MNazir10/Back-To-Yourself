@@ -1,23 +1,86 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+.mynav{
+    background-color: #778A7C ;
+    padding: 15px important;
+    font-family: 'Quicksand', sans-serif;
+}
 .sec2{
-    font-family: calibri light ;
+    font-family: 'Quicksand', sans-serif;
     background-image: url(img/nav-image.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    /* text-align: center; */ 
 }
 #banner_btn_1{
     background-color: transparent;
     border: 1px solid white;
     padding-top: .5%;
     padding-bottom: .5%;
-    padding-left: 2.5%;
-    padding-right: 2.5%;
-
-
+    padding-left: 3%;
+    padding-right: 3%;
+    font-family: 'Quicksand', sans-serif;
+}
+.mybutton{
+    background-color: transparent;
+    border: 1px solid #8D949A;
+    color: #6C757D;
+    padding: 1px;
+    font-family: 'Quicksand', sans-serif;
+}
+.sec3{
+    background-color: #FFFFFF;
+    color: #8C9298;
+    font-family: 'Quicksand', sans-serif;
+    
+}
+.mybutton_3{
+    background-color : transparent;
+    color: #C1C5C2;
+    font-family: 'Quicksand', sans-serif;
+}
+.div1{
+    background-color: #778A7C; 
+    font-family: 'Quicksand', sans-serif;
 
 }
-/* .txt{
-    width: 40rem;
-    text-align: center;
-} */
+.heading{
+    color: #6ED197;
+    font-family: 'Quicksand', sans-serif;
+}
+.mylogo{
+    background-color : transparent ;
+}
+.box{
+    font-family: 'Quicksand', sans-serif;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    padding: 1px;
+}
+.mycarousel{
+    font-family: 'Quicksand', sans-serif;
+    font-size: larger;
+    justify-content: center;
+}
+.myicon{
+    padding-top: 5%;
+    padding-left: 1%;
+    font-size: 35px;
+    color: #FFFFFF;
+}
+.lastBanner{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 100;
+}
+.formbtn{
+    background-color: #6ED197;
+    border: none;
+    margin-top: 15px;
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: larger;
+}
+
